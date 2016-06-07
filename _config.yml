@@ -14,7 +14,6 @@ highlighter: rouge
 permalink: /:title/
 
 force-https: True
-baseurl: /antoncabon.github.io
 
 # html minify
 compress_html:
@@ -31,7 +30,7 @@ links:
   - title: Cursos
     url: /cursos
   - title: Sitemap
-    url: /series
+    url: /daftar-isi
   - title: Tags
     url: /tags
   - title: About Me
