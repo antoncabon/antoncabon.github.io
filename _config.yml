@@ -14,6 +14,7 @@ highlighter: rouge
 permalink: /:title/
 
 force-https: True
+baseurl: /antoncabon.github.io
 
 # html minify
 compress_html:
