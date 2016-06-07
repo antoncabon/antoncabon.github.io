@@ -13,6 +13,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 
+force-https: True
 
 # html minify
 compress_html:
