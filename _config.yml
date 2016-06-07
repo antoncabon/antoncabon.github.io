@@ -29,11 +29,11 @@ links:
     url: /
   - title: Cursos
     url: /cursos
-  - title: Séries
+  - title: Sitemap
     url: /series
   - title: Tags
     url: /tags
-  - title: Sobre mim
+  - title: About Me
     url: /about
 
 collections:
