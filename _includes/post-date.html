@@ -1,6 +1,6 @@
 {% assign m = post.date | date: "%-m" %}
 {{ post.date | date: "%-d" }}
- pada
+ 
 {% case m %}
   {% when '1' %}Januari
   {% when '2' %}Februari
@@ -15,5 +15,5 @@
   {% when '11' %}November
   {% when '12' %}Desember
 {% endcase %}
- pada
+ Tahun
 {{ post.date | date: "%Y" }}
