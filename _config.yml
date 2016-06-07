@@ -13,6 +13,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 
+# Forces https everywhere in your website, except when you serve it locally
+# If you are not hosted on Github Pages, and your host doesn't support https
+# then you should disable it
+
 force-https: True
 
 # html minify
