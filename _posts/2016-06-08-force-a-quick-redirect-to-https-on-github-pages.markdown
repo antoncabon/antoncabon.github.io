@@ -44,4 +44,10 @@ dan masukan kode berikut ini ke dalam kotak editor
 {% endhighlight %}
 
 - Save
+
+> **Catatan:** pastikan pada   <kbd>_config.yml</kbd> anda memasukan url domain anda dengan awalan seperti berikut ini.
+{% highlight html %}
+url: "https://YOURDOMAIN.github.io"
+{% endhighlight %}
+
 - Selesai dan lihat hasilnya
