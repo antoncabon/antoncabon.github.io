@@ -1,8 +1,8 @@
 ---
-title: "Criando sites estáticos com Jekyll"
+title: "Creating static sites Jekyll"
 image: '/assets/img/cursos/curso-jekyll.png'
-link: 'http://willianjusten.teachable.com/courses/criando-sites-estaticos-com-jekyll'
-introduction: 'Aprenda a criar sites estáticos com o Jekyll e hospedar diretamente no Github Pages '
+link: 'https://antoncabon.github.io'
+introduction: 'Learn how to create static websites with Jekyll and host directly on Github Pages '
 main-class: 'jekyll'
 color: '#B31917'
 tags:
