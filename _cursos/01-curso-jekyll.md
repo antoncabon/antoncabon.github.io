@@ -2,7 +2,7 @@
 title: "Creating static sites Jekyll"
 image: '/assets/img/cursos/curso-jekyll.png'
 link: 'https://antoncabon.github.io'
-introduction: 'Learn how to create static websites with Jekyll and host directly on Github Pages '
+introduction: 'Learn how to create static websites with Jekyll and host directly on Github Pages, easy way if you learn it '
 main-class: 'jekyll'
 color: '#B31917'
 tags:
