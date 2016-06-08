@@ -23,8 +23,6 @@ Sebagai contoh pada template yang saya gunakan sekarang ini, saya hanya perlu me
 letakan kode yang akan di highligh disini...
 {endhighlight}
 ```
-<code class="filter">{% highlight css%}KODE ANDA DISINI{% endhighlight %}</code>
-
 Sehingga tampilannya akan menjadi seperti ini:
 
 {% highlight html %}
