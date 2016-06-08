@@ -8,5 +8,5 @@ color: '#B31917'
 tags:
 - jekyll
 - github-pages
-- cursos
+- learn
 ---
