@@ -5,10 +5,10 @@ title: "Cara Mudah Membuat Blog Di Github"
 date: 2016-06-09 01:38:37
 image: '/assets/img/tutorial/blog-github.jpg'
 description: "Bagaimana cara kita menampilkan Bootstrap Modal Animation Effects pada halaman postingan blog."
+main-class: 'misc'
 tags:
 - blogging
 - tutorial
-categories:
 twitter_text: "Cara Mudah Membuat Blog Di Github"
 introduction: "Bagaimana cara kita menampilkan Bootstrap Modal Animation Effects pada halaman postingan blog."
 ---
