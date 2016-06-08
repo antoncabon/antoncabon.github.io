@@ -1183,5 +1183,5 @@ $(".modal").each(function(l){$(this).on("show.bs.modal",function(l){var o=$(this
 
 Anda bisa mendownload dan melihat demo filenya dengan lengkap disini:
 
-[DOWNLOAD](https://codepen.io/antoncabon/full/WxQLbM/)  [DEMO](https://codepen.io/antoncabon/full/WxQLbM/)
+[DOWNLOAD](https://github.com/antoncabon/demo-modal/archive/gh-pages.zip)  [DEMO ON CODEPEN](https://codepen.io/antoncabon/full/WxQLbM/) [DEMO ON GITHUB](https://antoncabon.github.io/demo-modal/)
 
