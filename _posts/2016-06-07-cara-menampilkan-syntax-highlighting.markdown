@@ -19,11 +19,10 @@ Cara Menampilkan Syntax Highlighting pada halaman postingan blog github, sebenar
 Sebagai contoh pada template yang saya gunakan sekarang ini, saya hanya perlu menambahkan kode dibawah ini, untuk template milik anda silahkan di sesuaikan dengan yang sudah disediakan atau bawaan dari template tersebut. 
 
 ```javascript
-{% highlight html %}
+**highlight html
 letakan kode yang akan di highligh disini...
-{% endhighlight %}
+**endhighlight
 ```
-> {% highlight html %}letakan kode yang akan di highligh disini...{% endhighlight %}
 
 Sehingga tampilannya akan menjadi seperti ini:
 
