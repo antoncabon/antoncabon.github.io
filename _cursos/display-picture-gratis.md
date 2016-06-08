@@ -6,7 +6,6 @@ introduction: 'Sebuah blog yang menyediakan berbagai macam bentuk dan tampilan D
 main-class: 'dev'
 color: '#B31917'
 tags:
-- dev
 - display pictures
 - download
 ---
