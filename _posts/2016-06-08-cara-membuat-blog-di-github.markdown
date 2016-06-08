@@ -28,7 +28,7 @@ git push origin master
 
 Setelah anda lakukan perintah diatas maka secara ajaib blog anda sudah bisa dilihat pada url:
 
-<kbd>USERNAME.github.io</kbd>
+<code class="filter">USERNAME.github.io</code>
 
 Jika masih bingung silahkan kunjungi [Jekyllrb.com](https://jekyllrb.com/) atau jika anda merasa kesulitan untuk mengikuti perintah diatas silahkan anda bisa download di dan install template Jekyll Bootstrap  di [Jekyllbootstrap](http://themes.jekyllbootstrap.com/) disini anda bisa langsung menginstall template tersebut dengan mengikuti petunjuk yang sudah diberikan pada halaman situs.
 
