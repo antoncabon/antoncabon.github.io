@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Force a quick redirect to HTTPS on Github Pages
 layout: post
 ---
