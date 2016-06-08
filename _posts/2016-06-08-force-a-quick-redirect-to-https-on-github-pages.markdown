@@ -22,11 +22,26 @@ if (window.location.host == host && window.location.protocol != "https:") {
 </script>
 {% endhighlight %}
 
-- ganti YOURDOMAIN dengan nama domain anda sendiri
-- kemudian klik Commit changes
+- Ganti YOURDOMAIN dengan nama domain anda sendiri
+- Kemudian klik Commit changes
+
+##  Kedua
+
+Masih di direktori <kbd> _includes</kbd> buatlah halaman dengan url force-https.html
+
+dan masukan kode berikut ini ke dalam kotak editor
+
+{% highlight html %}
+{% if site.force-https and jekyll.environment == "production" %}
+  <!-- Force HTTPS Start -->
+  <script>
+  // Don't force http when serving the website locally
+  if (!(window.location.host.startsWith("127.0.0.1")) && (window.location.protocol != "https:"))
+    window.location.protocol = "https";
+  </script>
+  <!-- Force HTTPS End -->
+{% endif %}
+{% endhighlight %}
+
+- Save
 - Selesai dan lihat hasilnya
-
-
-
-
-
