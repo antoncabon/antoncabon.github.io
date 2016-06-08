@@ -6,7 +6,7 @@ main-class: 'dev'
 tags:
 - js
 - tutorial
-- stylus
+- css
 - blogging
 twitter_text: "Cara Menampilkan Syntax Highlighting"
 introduction: "Bagaimana cara kita menampilkan syntax highlighting pada halaman postingan blog github."
