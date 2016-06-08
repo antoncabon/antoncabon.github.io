@@ -14,7 +14,7 @@ introduction: "Bagaimana cara kita menampilkan syntax highlighting pada halaman 
 
 # Cara Menampilkan Syntax Highlighting
 
-Cara Menampilkan Syntax Highlighting pada halaman postingan blog github, sebenar secara default setiap template jekyll sudah disediakan pada template tersebut hanya saja untuk menampilkannya di halaman postingan blog kita perlu mengaturnya sedikit.
+Cara Menampilkan Syntax <kbd>Highlighting</kbd> pada halaman postingan blog github, sebenar secara default setiap template jekyll sudah disediakan pada template tersebut hanya saja untuk menampilkannya di halaman postingan blog kita perlu mengaturnya sedikit.
 
 Sebagai contoh pada template yang saya gunakan sekarang ini, saya hanya perlu menambahkan kode dibawah ini, untuk template milik anda silahkan di sesuaikan dengan yang sudah disediakan atau bawaan dari template tersebut. 
 
