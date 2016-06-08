@@ -19,9 +19,7 @@ Ketika anda mengakses blog atau situs yang di hosting pada github, maka tidak ak
 ## Langkah Pertama
 
 * Masuk ke direktori  <kbd>_includes</kbd>
-
 * Buka dan edit halaman  <kbd>head.html</kbd>
-
 * Masukan kode berikut 
 
 {% highlight html %}
@@ -32,8 +30,8 @@ if (window.location.host == host && window.location.protocol != "https:") {
 }
 </script>
 {% endhighlight %}
-- Ganti YOURDOMAIN dengan nama domain anda sendiri
-- Kemudian klik Commit changes
+* Ganti YOURDOMAIN dengan nama domain anda sendiri
+* Kemudian klik Commit changes
 
 ##  Langkah Kedua
 
