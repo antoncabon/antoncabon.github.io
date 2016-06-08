@@ -4,12 +4,12 @@ layout: post
 title: "Bootstrap Modal Animation Effects"
 description: "Bagaimana cara kita menampilkan Bootstrap Modal Animation Effects pada halaman postingan blog agar terlihat menarik."
 image: "/assets/img/modal.jpeg"
-main-class: 'js'
+main-class: 'html'
 tags:
 - js
 - tutorial
 - css
-- blogging
+- html
 twitter_text: "Cara Menampilkan Syntax Highlighting"
 introduction: "Bagaimana cara kita menampilkan Bootstrap Modal Animation Effects pada halaman postingan blog."
 ---
