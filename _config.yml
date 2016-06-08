@@ -31,8 +31,8 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Cursos
-    url: /cursos
+  - title: Learn
+    url: /learn
   - title: Sitemap
     url: /daftar-isi
   - title: Tags
