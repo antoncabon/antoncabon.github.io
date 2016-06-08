@@ -3,13 +3,14 @@ published: true
 layout: post
 title: "Cara Mudah Membuat Blog Di Github"
 image: '/assets/img/tutorial/blog-github.jpg'
-description: "Bagaimana cara kita menampilkan Bootstrap Modal Animation Effects pada halaman postingan blog."
+description: "Pada tutorial saya kali ini kembali akan saya coba tuliskan tahapan dalam membuat sebuah blog yang di hosting pada github."
 main-class: 'jekyll'
 tags:
 - blogging
 - tutorial
+- jekyll
 twitter_text: "Cara Mudah Membuat Blog Di Github"
-introduction: "Bagaimana cara kita menampilkan Bootstrap Modal Animation Effects pada halaman postingan blog."
+introduction: "Pada tutorial saya kali ini kembali akan saya coba tuliskan tahapan dalam membuat sebuah blog yang di hosting pada github."
 ---
 ![Cara Membuat Blog di Github](/assets/img/tutorial/blog-github.jpg)
 
