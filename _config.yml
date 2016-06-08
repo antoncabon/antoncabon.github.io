@@ -39,6 +39,8 @@ links:
     url: /tags
   - title: About Me
     url: /about
+  - title: Resume
+    url: /cv
 
 collections:
   - cursos
