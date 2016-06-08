@@ -18,11 +18,11 @@ Ketika anda mengakses blog atau situs yang di hosting pada github, maka tidak ak
 
 ## Langkah Pertama
 
-- Masuk ke direktori  <kbd>_includes</kbd>
+* Masuk ke direktori  <kbd>_includes</kbd>
 
-- Buka dan edit halaman  <kbd>head.html</kbd>
+* Buka dan edit halaman  <kbd>head.html</kbd>
 
-- Masukan kode berikut 
+* Masukan kode berikut 
 
 {% highlight html %}
 <script>
@@ -52,7 +52,7 @@ dan masukan kode berikut ini ke dalam kotak editor
 {% endif %}
 {% endhighlight %}
 
-- Commit
+* Commit
 
 > **Catatan:** pastikan pada   <kbd>_config.yml</kbd> anda memasukan url domain anda dengan awalan seperti berikut ini.
 
@@ -60,4 +60,4 @@ dan masukan kode berikut ini ke dalam kotak editor
 url: "https://YOURDOMAIN.github.io"
 {% endhighlight %}
 
-- Selesai dan lihat hasilnya, semoga bermanfaat.
+* Selesai dan lihat hasilnya, semoga bermanfaat.
