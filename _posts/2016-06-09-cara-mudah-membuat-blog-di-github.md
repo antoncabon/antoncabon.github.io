@@ -3,7 +3,7 @@ published: true
 layout: post
 title: "Cara Mudah Membuat Blog Di Github"
 date: 2016-06-09 01:38:37
-image: '/assets/img/tutorial/blog-github.jpg'
+image: '/assets/img/tutorial/jekyll-theme.jpg'
 description: "Pada tutorial saya kali ini kembali akan saya coba tuliskan tahapan dalam membuat sebuah blog yang di hosting pada Github.com"
 main-class: 'jekyll'
 tags:
@@ -12,9 +12,10 @@ tags:
 twitter_text: "Cara Mudah Membuat Blog Di Github"
 introduction: "Pada tutorial saya kali ini kembali akan saya coba tuliskan tahapan dalam membuat sebuah blog yang di hosting pada Github.com"
 ---
-![Cara Membuat Blog di Github](/assets/img/tutorial/blog-github.jpg)
 
 Pada tutorial saya kali ini kembali akan saya coba tuliskan tahapan dalam membuat sebuah blog yang di hosting pada <kbd>Github.com</kbd>, hal yang pertama sekali perlu anda lakukan adalah membuat sebuah akun di [Github](https://github.com), kemudian setelah anda membuat akun hal berikutnya adalah membuat sebuah <kbd>new repository</kbd> dengan judul <kbd>USERNAME.github.io</kbd>, ganti <mark>USERNAME</mark> dengan nama domian anda. 
+
+![Cara Membuat Blog di Github](/assets/img/tutorial/jekyll-theme.jpg)
 
 Setelah semua tahapan diatas dilakukan hal berikutnya adalah menginstall template <kbd>Jekyll Bootstrap</kbd> yang akan anda gunakan pada blog anda tersebut.
 
