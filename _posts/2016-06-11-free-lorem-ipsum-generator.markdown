@@ -3,7 +3,7 @@ layout: post
 title: "Free Lorem Ipsum Generator"
 description: "Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an."
 image: "/assets/img/tutorial/lipsum-ui.jpg"
-main-class: 'misc'
+main-class: 'css'
 tags:
 - js
 - tutorial
