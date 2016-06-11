@@ -31,8 +31,10 @@ Setelah anda lakukan perintah diatas maka secara ajaib blog anda sudah bisa dili
 
 <mark>USERNAME.github.io</mark>
 
-Jika masih bingung silahkan kunjungi [Jekyllrb.com](https://jekyllrb.com/) atau jika anda merasa kesulitan untuk mengikuti perintah diatas silahkan anda bisa download di dan install template Jekyll Bootstrap  di [Jekyllbootstrap](http://themes.jekyllbootstrap.com/) disini anda bisa langsung menginstall template tersebut dengan mengikuti petunjuk yang sudah diberikan pada halaman situs.
+Jika masih bingung silahkan kunjungi [Jekyllrb.com](https://jekyllrb.com/) atau jika anda merasa kesulitan untuk mengikuti perintah diatas silahkan anda bisa download dan install template Jekyll Bootstrap  di [Jekyllbootstrap](http://themes.jekyllbootstrap.com/) disini anda bisa langsung menginstall template tersebut dengan mengikuti petunjuk yang sudah diberikan pada halaman situs.
 
 Masih juga bingung? silahkan hubungi saya di [Contact](https://antoncabon.github.io/about/) atau anda bisa melihat tutorial dengan video tentang cara membuat blog di github di [Video Tutorial Membuat Blog di Github](https://antoncabon.github.io/github-pages-and-jekyll-video-untuk-pemula/)
+
+Sebagai rekomendasi untuk download template anda dapat mengunjungi url ini [Jekyll Theme](https://jekyllthemes.io/) dan disini anda bisa dengan bebas memilih mau template yang versi premium atau gratis, terserah anda.
 
 Selamat mencoba dan semoga berhasil dan jangan pernah berhenti untuk belajar dan belajar !.
