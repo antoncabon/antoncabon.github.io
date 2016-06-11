@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Free Lorem Ipsum Generator"
-description: "Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an."
+description: "Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. "
 image: "/assets/img/tutorial/lipsum-ui.jpg"
 main-class: 'css'
 tags:
@@ -10,7 +10,7 @@ tags:
 - css
 - html
 twitter_text: "Free Lorem Ipsum Generator"
-introduction: "Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an."
+introduction: "Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting."
 ---
 
 Lorem Ipsum adalah contoh teks atau dummy dalam industri percetakan dan penataan huruf atau typesetting. Lorem Ipsum telah menjadi standar contoh teks sejak tahun 1500an, saat seorang tukang cetak yang tidak dikenal mengambil sebuah kumpulan teks dan mengacaknya untuk menjadi sebuah buku contoh huruf.  Lorem ipsum generator ini adalah sebuah alat yang dibuat oleh Taufik Nurrohman dan biasa digunakan oleh developer theme atau template untuk menghasilkan susunan kalimat sebagai bahan postingan untuk template baru mereka.
