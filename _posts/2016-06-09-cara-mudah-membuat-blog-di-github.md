@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Cara Mudah Membuat Blog Di Github"
+title: "Easy Steps to Create a Blog On Github"
 date: 2016-06-09 01:38:37
 image: '/assets/img/tutorial/jekyll-theme.jpg'
 description: "Pada tutorial saya kali ini kembali akan saya coba tuliskan tahapan dalam membuat sebuah blog yang di hosting pada Github.com"
@@ -9,7 +9,7 @@ main-class: 'jekyll'
 tags:
 - blogging
 - tutorial
-twitter_text: "Cara Mudah Membuat Blog Di Github"
+twitter_text: "Easy Steps to Create a Blog On Github"
 introduction: "Pada tutorial saya kali ini kembali akan saya coba tuliskan tahapan dalam membuat sebuah blog yang di hosting pada Github.com"
 ---
 
