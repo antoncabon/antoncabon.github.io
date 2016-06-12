@@ -15,14 +15,11 @@ Pada postingan kali saya akan membagikan sebuah tool yang bisa anda gunakan untu
 
 ![CSS3](/assets/img/tutorial/css3-button.jpg)
 
-## Beberapa fitur CSS3::
+## Beberapa fitur CSS3:
 
 - Animasi, sehingga pembuatan animasi tidak memerlukan program sejenis Adobe Flash dan Microsoft Silverlight
-
 - Beberapa efek teks, seperti teks berbayang, kolom koran, dan "word-wrap".
-
 - Jenis huruf eksternal, sehingga dapat menggunakan huruf yang tidak termasuk "web-safe fonts".
-
 - Beberapa efek pada kotak, seperti kotak yang ukurannya dapat diubah-ubah, transformasi 2 dimensi dan 3 dimensi, sudut-sudut yang tumpul dan bayangan. 
 
 ## Css3 Button Generator
