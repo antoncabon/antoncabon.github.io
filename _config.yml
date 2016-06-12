@@ -2,7 +2,7 @@
 title: Antoncabon
 email: antoncabon77@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Just personal blog on github.
+  Just another personal blog, a place to share and express a work on the internet...
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://antoncabon.github.io" # the base hostname & protocol for your site
 twitter_username: antoncabon
