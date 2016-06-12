@@ -39,6 +39,8 @@ links:
     url: /about
   - title: Resume
     url: /cv
+  - title: Privacy
+    url: /privacy
 
 collections:
   - cursos
