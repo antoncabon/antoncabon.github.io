@@ -2,12 +2,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
     <!-- Google Authorship Markup -->
     <meta name="google-site-verification" content="pfwxU5NZp_xJbhD5ce_v2rZNGqubXiejIaDLC8mcGj0" />
+    <meta name="msvalidate.01" content="C9EF92CCD93427F668783DF4C57530C5" />
     <link rel="author" href="https://plus.google.com/+antoncabon?rel=author">
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <!-- Social: Twitter -->
@@ -20,7 +19,6 @@
     {% else %}
     <meta property="twitter:image:src" content="{{ "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
-
     <!-- Social: Facebook / Open Graph -->
     <meta property="fb:admins" content="1611244354" />
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -32,7 +30,6 @@
     {% endif %}
     <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:site_name" content="{{ site.title }}">
-
     <!-- Social: Google+ / Schema.org  -->
     <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
     <meta itemprop="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
