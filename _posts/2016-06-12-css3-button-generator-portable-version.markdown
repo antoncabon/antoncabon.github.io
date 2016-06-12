@@ -1,7 +1,15 @@
 ---
-published: true
-title: Css3 Button Generator Portable Version
 layout: post
+title: "Css3 Button Generator Portable Version"
+description: "Pada postingan kali saya akan membagikan sebuah tool yang bisa anda gunakan untuk membuat atau mendesain Tombol CSS3."
+image: "/assets/img/tutorial/css3-button.jpg"
+main-class: 'css'
+tags:
+- tutorial
+- css
+- blogging
+twitter_text: "Css3 Button Generator Portable Version"
+introduction: "Pada postingan kali saya akan membagikan sebuah tool yang bisa anda gunakan untuk membuat atau mendesain Tombol CSS3."
 ---
 Pada postingan kali saya akan membagikan sebuah tool yang bisa anda gunakan untuk membuat atau mendesain Tombol CSS3 yang bisa anda gunakan pada halaman blog milik anda, namun sebelum anda menggunakan Tool Botton CSS3 Generator ini ada baiknya kita sedikit mengetahui apa itu CSS3? CSS 3 adalah versi CSS terbaru yang masih dikembangkan oleh W3C. Namun beberapa web browser sudah mendukung CSS 3. Untuk versi sebelumnya yaitu CSS 2 sudah didukung seutuhnya oleh CSS 3 dan tidak ada perubahan, hanya ada beberapa penambahan kecil saja, sehingga ketika bermigrasi dari CSS 2 ke CSS 3 maka anda tidak perlu mengubah apapun.
 
