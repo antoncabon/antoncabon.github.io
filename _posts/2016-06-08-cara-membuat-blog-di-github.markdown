@@ -33,7 +33,9 @@ Setelah anda lakukan perintah diatas maka secara ajaib blog anda sudah bisa dili
 
 Jika masih bingung silahkan kunjungi [Jekyllrb.com](https://jekyllrb.com/) atau jika anda merasa kesulitan untuk mengikuti perintah diatas silahkan anda bisa download dan install template Jekyll Bootstrap  di [Jekyllbootstrap](http://themes.jekyllbootstrap.com/) disini anda bisa langsung menginstall template tersebut dengan mengikuti petunjuk yang sudah diberikan pada halaman situs.
 
-Masih juga bingung? silahkan hubungi saya di [Contact](https://antoncabon.github.io/about/) atau anda bisa melihat tutorial dengan video tentang cara membuat blog di github di [Video Tutorial Membuat Blog di Github](https://antoncabon.github.io/github-pages-and-jekyll-video-untuk-pemula/)
+Masih juga bingung? anda dapat menghubungi saya di [Contact](https://antoncabon.github.io/about/) atau anda bisa melihat tutorial dengan video tentang cara membuat blog di github.
+
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/5cqzKDq5FLw" frameborder="0" allowfullscreen></iframe>
 
 Sebagai rekomendasi untuk download template anda dapat mengunjungi url ini [Jekyll Theme](https://jekyllthemes.io/) dan disini anda bisa dengan bebas memilih mau template yang versi premium atau gratis, terserah anda.
 
