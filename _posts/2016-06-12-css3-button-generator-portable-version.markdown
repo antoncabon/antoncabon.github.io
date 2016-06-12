@@ -6,7 +6,7 @@ image: "/assets/img/tutorial/css3-button.jpg"
 main-class: 'css'
 tags:
 - tutorial
-- css
+- css3
 - blogging
 twitter_text: "Css3 Button Generator Portable Version"
 introduction: "Pada postingan kali saya akan membagikan sebuah tool yang bisa anda gunakan untuk membuat atau mendesain Tombol CSS3."
