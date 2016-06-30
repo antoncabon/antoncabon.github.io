@@ -1,7 +1,16 @@
 ---
 published: true
-title: Amazing Loading Page Effect with JQuery
 layout: post
+title: "Amazing Loading Page Effect with JQuery"
+image: '/assets/img/tutorial/jekyll-theme.jpg'
+description: "Pada postingan saya kali ini akan membagikan sebuah trick cara memasang animasi loading page pada halaman blog."
+main-class: 'css'
+tags:
+- blogging
+- tutorial
+- JQuery
+twitter_text: "Amazing Loading Page Effect with JQuery"
+introduction: "Pada postingan saya kali ini akan membagikan sebuah trick cara memasang animasi loading page pada halaman blog."
 ---
 Pada postingan saya kali ini akan membagikan sebuah trick cara memasang animasi loading page pada halaman blog anda dalam halnya faltform blogger.
 Untuk memasang animasi loading page ini tidaklah terlau sulit hanya saja diperlukan ketelitian dalam meletakan kode-kode yang akan saya bagikan dibawah ini lengkap dengan langkah-langkahnya, baiklah kita mulai saja proses langkah-langkahnya.
@@ -9,7 +18,6 @@ Untuk memasang animasi loading page ini tidaklah terlau sulit hanya saja diperlu
 # Pertama 
 
 Masuk ke dasboard blogger anda kemudian letakan kode css berikut diatas kode <kbd></head></kbd>
-
 
 {% highlight css linenos%}
 <style>
