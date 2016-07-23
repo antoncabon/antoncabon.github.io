@@ -1,7 +1,15 @@
 ---
-published: true
-title: Cara Custom Domain Di Github Page
 layout: post
+title: "Cara Custom Domain Di Github Page"
+description: "Seiring dengan mulai ramainya blogger yang menggunakan blog pada situs github.com yang menyediakan sub domian."
+image: "/assets/img/tutorial/anton-custom-domain-github.jpg"
+main-class: 'misc'
+tags:
+- tutorial
+- domain
+- blogging
+twitter_text: "Cara Custom Domain Di Github Page"
+introduction: "Seiring dengan mulai ramainya blogger yang menggunakan blog pada situs github.com yang menyediakan sub domian."
 ---
 Seiring dengan mulai ramainya blogger yang menggunakan blog pada situs github.com yang menyediakan sub domian USERNAME.GITHUB.IO kepada para penggunanya secara gratis, tidak hanya sampai disitu kita juga bahkan bisa mengganti nama USERNAME.GITHUB.IO tersebut dengan domain milik kita sendiri seperti namaanda.com dsb.
 
