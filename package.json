@@ -1,7 +1,7 @@
 {
-  "name": "willianjusten.github.io",
+  "name": "antoncabon.github.io",
   "version": "1.0.0",
-  "description": "Um blog sobre desenvolvimento web focado em frontend.",
+  "description": "A frontend web development blog focused on frontend.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "test"
@@ -15,7 +15,7 @@
     "jekyll",
     "js"
   ],
-  "author": "Willian Justen de Vasconcellos",
+  "author": "Antoncabon",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-stylus": "^0.4.0",
